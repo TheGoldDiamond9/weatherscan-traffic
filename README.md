@@ -1,3 +1,8 @@
+# PLEASE VISIT
+https://github.com/MistWeatherMedia/weatherscan-v2
+FOR NEWEST VERSION
+
+
 # Weatherscan Simulator
 Weatherscan simulation in HTML/JS/CSS
 
